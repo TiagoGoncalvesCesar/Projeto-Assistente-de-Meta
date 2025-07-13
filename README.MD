@@ -1,5 +1,5 @@
 
-// AIzaSyDaro9MaGlKcLUOKtJI234iNe2NhOjgulY  Chave API 
+
 Projeto-Assistente-de-Meta
 
 Projeto criado na NLW Agents da RocketSeat
