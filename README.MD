@@ -25,7 +25,11 @@ JavaScript (Vanilla)
 API do Google Gemini
 Showdown.js – para converter Markdown em HTML
 📦 Como executar o projeto
-. ├── index.html ├── script.js ├── style.css └── assets/ ├── logo.svg └── bg.png
+. ├── index.html 
+├── script.js
+├── style.css
+└── assets/ ├── logo.svg 
+└── bg.png
 
 Clonar este repositório:
 git clone https://github.com/seu-usuario/assistente-de-meta.git
